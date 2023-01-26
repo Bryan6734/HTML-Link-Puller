@@ -4,9 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Locale;
 import javax.swing.*;
-import javax.swing.border.EmptyBorder;
 
 public class SwingParser implements ActionListener {
 
